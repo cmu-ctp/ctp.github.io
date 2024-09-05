@@ -1,0 +1,42 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Center for Transformational Play
+email: ctp-info@andrew.cmu.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  The Center for Transformational Play (CTP) is a research center launched by 
+  the Carnegie Mellon University School of Computer Science to house the 
+  research and development of transformational games. The CTP serves as the 
+  academic intersection of some of CMU’s greatest movers, shakers and positive 
+  changers; a hub for game development and research; and most of all a home-base 
+  for people who share a passion for the transformational power of interactive 
+  media and games. We aim for our work, to be joyful, effective, and valuable to
+  those who engage with it.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ctp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: cmuctp
+github_username: cmu-ctp
+
+sass:
+  style: compressed
+  load_paths:
+    - node_modules
+
+collections:
+  publications:
+    output: true
+  people:
+    output: false
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-mentions
+  - jekyll-redirect-from
+kramdown:
+  toc_levels: 1..2

@@ -1,0 +1,12 @@
+---
+layout: page
+title: News
+subtitle: Check out our latest work, notable events, and opportunites to get involved!
+description: Check out the latest work and notable events from the CTP.
+---
+
+<div>
+  {% for post in site.posts %}
+    {% include post-preview.html post=post %}
+  {% endfor %}
+</div>

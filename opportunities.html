@@ -1,0 +1,12 @@
+---
+layout: page
+title: Opportunities
+subtitle: Get involved with the CTP! For the most up to date information on available opportunities, check our <a href="http://bit.ly/HammerOpps">opportunities page</a>.
+description: Check out our ongoing opportunities to get involved with the CTP.
+---
+
+<div>
+  {% for post in site.posts %} {% if post.opportunityLink %}
+  {% include post-preview.html post=post %}
+  {% endif %} {% endfor %}
+</div>
