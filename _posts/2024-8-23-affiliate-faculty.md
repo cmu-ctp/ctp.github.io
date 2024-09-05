@@ -4,7 +4,7 @@ title: "Join the CTP Affiliate Faculty Program"
 excerpt_separator: <!--more-->
 side_image: "/assets/posts/ctp_logo.png"
 side_image_alt: "The Center for Transformational Play logo"
-opportunityLink: "???????????????????"
+opportunityLink: "https://forms.gle/eZjy9HBxvnnqwyXG7"
 ---
 
 The CTP affiliate student program is fairly new so we’re still piloting it and collecting feedback. We’ll update this as our program expands and changes.
@@ -27,7 +27,7 @@ The Center for Transformational Play has four mission pillars. One is to be a re
 1. You must sign our [code of conduct](https://forms.gle/BkHfSidNLnKaBanG9) (you will be asked to renew this every year) 
 2. You must contribute a minimum of 2 hours per month to CTP activities. For now, we are asking that you use this time to support our members through office hours.
 
-**If you’re interested, sign up with this [form](??????????????) and we’ll add you to our program!**
+**If you’re interested, sign up with this [form](https://forms.gle/eZjy9HBxvnnqwyXG7) and we’ll add you to our program!**
 
 <hr>
 
@@ -40,7 +40,7 @@ The Center for Transformational Play has four mission pillars. One is to be a re
 3. **I’d like to contribute in a different way. What should I do?** 
   - We have limited spots available for talks, workshops, game nights, and other types of contributions. Please reach out to [Avonelle Wing](mailto:agwing@andrew.cmu.edu) if there is something you have in mind.
 4. **I have a great idea for the faculty affiliate program! How do I share it?** 
-  - Please let us know using our [feedback form](?????????????).
+  - Please let us know by [emailing us](mailto:ctp-info@andrew.cmu.edu)
 
 
   
