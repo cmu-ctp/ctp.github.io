@@ -1,6 +1,6 @@
 # Website prototype for the Center for Transformational Play
 
-Deployed at [https://ctp.github.io/](https://ctp.github.io/)
+Deployed at [https://cmu-ctp.github.io/](https://cmu-ctp.github.io/)
 
 This is a fork of: https://github.com/cmudig/cmudig.github.io <br>
 which was inspired by: https://github.com/visdesignlab/visdesignlab.github.io and https://github.com/domoritz/domoritz.github.io. 
