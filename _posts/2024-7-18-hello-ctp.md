@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello CMU Center for Transformational Play"
+title: "...and we're live!"
 excerpt_separator: <!--more-->
 side_image: "/assets/posts/ctp_logo.png"
 side_image_alt: "The Center for Transformational Play logo"
