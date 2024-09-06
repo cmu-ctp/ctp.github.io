@@ -5,10 +5,6 @@ subtitle: Learn more about the Center for Transformational Play at Carnegie Mell
 description: Learn more about the Center for Transformational Play at Carnegie Mellon University.
 ---
 
-The Center for Transformational Play at Carnegie Mellon University brings
-together world-class expertise from across the university to design, build, and
-study transformational games. 
-
 ## Who We Are
 
 The Center for Transformational Play (CTP) is a research center launched by the Carnegie Mellon University School of Computer Science to house the research and development of transformational games. We leverage resources across the university and our region to increase their impact through an ecosystem of rich connections. Always expanding the boundaries of what is possible, we build community, do high-quality research, make games, and connect with the world. We provide research-backed solutions to help people solve problems that matter to them through the power of games and play. We aim for our work to be **joyful**, **effective**, and **valuable** to those who engage with it.
