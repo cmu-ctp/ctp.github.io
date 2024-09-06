@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-
-<div class="jumbotron relative" style="min-height: 400px;">
-  <canvas class="absolute l-0 t-0 w-100 h-100 o-50" id="jumbotron-canvas"></canvas>
-  <div class="relative w-100 mw8 ph4-l ph3 pv5-l pv3 center z-1" style="pointer-events: none;" >
+<div class="pv4 bg-near-white">
+  <div class="w-100 mw8 ph4-l ph3 pv4-l pv3 center">
     <h1 class="f1 measure mt3" style="pointer-events: auto;">CMU Center for Transformational Play</h1>
     <p class="f4 measure lh-copy" style="pointer-events: auto;">
       We are a research group at the
@@ -65,14 +63,3 @@ layout: default
     <a class="cta" href="/publications">Show all</a>
   </section>
 </div>
-
-<script type="module" defer>
-  {% include jumbotron.js %}
-</script>
-<style>
-  @media (prefers-reduced-motion) or (prefers-contrast: more) {
-    #jumbotron-canvas {
-      display: none;
-    }
-  }
-</style>
