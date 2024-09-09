@@ -17,17 +17,20 @@ Fun fact.
 
 We have the following roles. You can also add a new role if it makes sense.
   - Director
-  - Professor
+  - Operations Manager
+  - Lead Game Designer
+  - Senior Development Strategist
+  - Strageic Partnerships
+  - Communications
+  - Project Manager
+  - Affiliated Faculty
   - PhD Student
-  - Affiliated Professor
-  - Visiting PhD Student
-  - Visiting Student
   - Masters Student
   - Undergraduate Student
-  - Affiliated Researcher
   - Collaborator
+  - Staff
 
-Add add a picture, add it to [the assets directory](../assets/people) with around `400x400` pixels as a JPEG image.  The height and width of the image should be equal, so it is is a square.
+Add add a picture, add it to [the assets directory](../assets/people) with around `400x400` pixels as a JPEG image.  The height and width of the image should be equal, so it is a square.
 
 Once someone leaves the group, add `alumni_since: XXXX` to make them as alumni.
 
