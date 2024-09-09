@@ -15,7 +15,17 @@ advisors:
 Fun fact.
 ```
 
-We have the following roles: `Professor`, `Postdoc`, `PhD Student`, `Visiting PhD Student`, `Masters Student`, `Undergraduate Student`, and `Collaborator`. You can also add a new role if it makes sense.
+We have the following roles. You can also add a new role if it makes sense.
+  - Director
+  - Professor
+  - PhD Student
+  - Affiliated Professor
+  - Visiting PhD Student
+  - Visiting Student
+  - Masters Student
+  - Undergraduate Student
+  - Affiliated Researcher
+  - Collaborator
 
 Add add a picture, add it to [the assets directory](../assets/people) with around `400x400` pixels as a JPEG image.  The height and width of the image should be equal, so it is is a square.
 

@@ -1,6 +1,6 @@
 ---
 name: Jessica Hammer
-website: https://www.hcii.cmu.edu/people/jessica-hammer
+website: http://replayable.net/
 image: /assets/people/JessicaHammer.jpg
 role: Director
 ---
